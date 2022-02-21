@@ -22,3 +22,5 @@ To quit the game at any point type:
 ```
 quit
 ``` 
+
+[![C/C++ CI](https://github.com/prestonmasseyblake/Wordler/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prestonmasseyblake/Wordler/actions/workflows/c-cpp.yml)
